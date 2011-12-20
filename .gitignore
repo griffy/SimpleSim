@@ -1,0 +1,5 @@
+build/
+dist/
+SimpleSim.egg-info
+*DS_Store
+Thumbs.db

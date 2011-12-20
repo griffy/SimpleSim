@@ -1,3 +1,5 @@
 SimpleSim
 
 The Simple Discrete-Event Simulation Library
+
+Check out demo.py in the examples folder to see how you can use SimpleSim
